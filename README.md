@@ -14,7 +14,7 @@ Soy un desarrollador apasionado por crear **experiencias digitales dinámicas y 
 - 📚 Fuerte conocimiento en **estructuras de datos** y **programación orientada a objetos (OOP)**.  
 - 🔢 Interés y práctica en **programación matemática** con **Wolfram Language**.  
 - 👯 Abierto a colaborar en proyectos **edtech, open source** y aplicaciones **multiplataforma**.  
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/) · [Email](mailto:duarte.galvez13@gmail.com)  
+- 📫 Cómo contactarme: · [Email](mailto:duarte.galvez13@gmail.com)  
 
 ---
 
