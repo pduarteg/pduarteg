@@ -1,12 +1,12 @@
 # Hi there, I’m Percy Duarte  
 
-💻 **Frontend / Backend Developer | PWA Enthusiast | Lifelong Learner**  
+**Frontend / Backend Developer | PWA Enthusiast | Lifelong Learner**  
 
 Soy un desarrollador apasionado por crear **experiencias digitales dinámicas y escalables**. Actualmente me enfoco en el desarrollo de **Progressive Web Apps (PWA)** usando **Next.js, Node.js y TypeScript**, integrando animaciones, interactividad y un enfoque flexible para la educación digital.  
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 - Actualmente trabajando en **SOY DIGITAL**, una plataforma educativa interactiva (similar a Duolingo, pero con actividades flexibles tipo Moodle).  
 - Aprendiendo y perfeccionando **arquitectura de software frontend**, **animaciones con Framer Motion** y **optimización de PWA**.  
@@ -18,7 +18,7 @@ Soy un desarrollador apasionado por crear **experiencias digitales dinámicas y 
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 **Frontend:**  
 Next.js · React · TypeScript · SCSS · TailwindCSS  
@@ -34,7 +34,7 @@ Git · GitHub · Framer Motion · Figma · Docker (básico)
 
 ---
 
-## 📊 GitHub Analytics  
+## GitHub Analytics  
 
 <p align=center>
   <a href="https://github.com/pduarteg">
@@ -52,7 +52,7 @@ Git · GitHub · Framer Motion · Figma · Docker (básico)
 
 ---
 
-## 🌐 Most Used Languages  
+## Most Used Languages  
 
 - 🐍 **Python** – 40.44%  
 - ☕ **Java** – 24.35%  
@@ -65,7 +65,7 @@ Git · GitHub · Framer Motion · Figma · Docker (básico)
 
 ---
 
-## 🌟 Highlights  
+## Highlights  
 
 - Experiencia creando **mapas interactivos tipo videojuego** para educación digital.  
 - Diseño de interfaces limpias, dinámicas y adaptadas a distintos tipos de actividades (simuladores, videos, quizzes, etc.).  
