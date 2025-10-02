@@ -12,7 +12,7 @@ Soy un desarrollador apasionado por crear **experiencias digitales dinámicas y 
 - 🌱 Aprendiendo y perfeccionando **arquitectura de software frontend**, **animaciones con Framer Motion** y **optimización de PWA**.  
 - 🎮 Pequeña experiencia en **desarrollo de videojuegos** con **Godot Engine** y **GameMaker Studio**.  
 - 📚 Fuerte conocimiento en **estructuras de datos** y **programación orientada a objetos (OOP)**.  
-- 🔢 Interés y práctica en **programación matemática** con **Wolfram Language**.  
+- 🔢 Manejo de **programación matemática** con **Wolfram Language**.  
 - 👯 Abierto a colaborar en proyectos **edtech, open source** y aplicaciones **multiplataforma**.  
 - 📫 Cómo contactarme: · [Email](mailto:duarte.galvez13@gmail.com)  
 
