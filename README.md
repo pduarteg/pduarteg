@@ -1,36 +1,29 @@
-# Hi there, I’m Percy Duarte  
+# Hi there, I’m Percy Duarte 🇬🇹
 
-**Frontend / Backend Developer | PWA Enthusiast | Lifelong Learner**  
-
-Soy un desarrollador apasionado por crear **experiencias digitales dinámicas y escalables**. Actualmente me enfoco en el desarrollo de **Progressive Web Apps (PWA)** usando **Next.js, Node.js y TypeScript**, integrando animaciones, interactividad y un enfoque flexible para la educación digital.  
+**Frontend Developer & Automation Specialist | PWA Enthusiast | Lifelong Learner** Soy un desarrollador enfocado en crear **experiencias digitales dinámicas** y sistemas de **automatización de datos**. Actualmente, trabajo principalmente en el frontend y la extracción de datos en **SALBA**, transformando la disponibilidad de información pública mediante **Python y Next.js**.
 
 ---
 
 ## About Me  
 
-- Actualmente trabajando en **SOY DIGITAL**, una plataforma educativa interactiva (similar a Duolingo, pero con actividades flexibles tipo Moodle).  
-- Aprendiendo y perfeccionando **arquitectura de software frontend**, **animaciones con Framer Motion** y **optimización de PWA**.  
-- Pequeña experiencia en **desarrollo de videojuegos** con **Godot Engine** y **GameMaker Studio**.  
-- Fuerte conocimiento en **estructuras de datos** y **programación orientada a objetos (OOP)**.  
-- Manejo de **programación matemática** con **Wolfram Language**.  
-- Abierto a colaborar en proyectos **edtech, open source** y aplicaciones **multiplataforma**.  
-- Cómo contactarme: · [Email](mailto:duarte.galvez13@gmail.com)  
+- 🚀 Actualmente trabajando en **SALBA**, plataforma de transparencia y análisis de datos (enfocada inicialmente en el Senado de RD).
+- 🛠️ Especializándome en **Web Scraping avanzado** con **Playwright** y procesamiento de datos complejos.
+- 🎨 Perfeccionando **arquitectura frontend**, **animaciones con Framer Motion** y optimización de **PWAs**.
+- 🎮 Pequeña experiencia en **desarrollo de videojuegos** con **Godot Engine** y **GameMaker Studio**.
+- 🧪 Conocimientos sólidos en **estructuras de datos**, **POO** y **programación matemática** (Wolfram Language).
+- 📩 Cómo contactarme: [duarte.galvez13@gmail.com](mailto:duarte.galvez13@gmail.com)
 
 ---
 
 ## Tech Stack  
 
-**Frontend:**  
-Next.js · React · TypeScript · SCSS · TailwindCSS  
+**Frontend & UI:** Next.js · React · TypeScript · Framer Motion · TailwindCSS · SCSS · Figma  
 
-**Backend / Infra:**  
-Node.js · Express · REST APIs  
+**Automation & Scraping:** Python · Playwright · BeautifulSoup · Automatización de tareas  
 
-**CS Fundamentals & Math:**  
-Estructuras de Datos · Programación Orientada a Objetos (OOP) · Wolfram Language  
+**Infrastructure & Tools:** Git · GitHub · Node.js · Express · Docker · Linux (Ubuntu Server)  
 
-**Tools & Others:**  
-Git · GitHub · Framer Motion · Figma · Docker (básico)  
+**Math & CS Fundamentals:** Estructuras de Datos · Programación Orientada a Objetos (OOP) · Wolfram Language  
 
 ---
 
@@ -48,8 +41,6 @@ Git · GitHub · Framer Motion · Figma · Docker (básico)
   </a>
 </p>
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pduarteg&theme=dracula&hide_border=true) -->
-
 ---
 
 ## Most Used Languages  
@@ -61,15 +52,11 @@ Git · GitHub · Framer Motion · Figma · Docker (básico)
 - 💻 **C++** – 5.57%  
 - 🎨 **Blade** – 5.11%  
 
-*(Según estadísticas de mi repositorio público)*  
-
 ---
 
 ## Highlights  
 
-- Experiencia creando **mapas interactivos tipo videojuego** para educación digital.  
-- Diseño de interfaces limpias, dinámicas y adaptadas a distintos tipos de actividades (simuladores, videos, quizzes, etc.).  
-- Interés en proyectos que combinen **tecnología + creatividad + educación**.  
-- Curiosidad y práctica en **videojuegos 2D y mecánicas interactivas**.  
-- Conocimientos sólidos en **estructuras de datos y POO**.  
-- Experiencia en **programación matemática** con **Wolfram Language**.  
+- **SALBA Project:** Extracción y visualización de datos legislativos mediante scrapers de alto rendimiento.  
+- **Ex-Soy Digital:** Creación de mapas interactivos tipo videojuego para educación digital y plataformas interactivas.  
+- **Interactive Interfaces:** Diseño de interfaces limpias y dinámicas adaptadas a simuladores y PWAs.  
+- **Creative Tech:** Interés en combinar tecnología, creatividad y automatización.
